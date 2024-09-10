@@ -4,7 +4,7 @@
 - 📫 Reach me via discord (@Klyoark9089), or other socials with the same handle as my name (Klyoark).
 - ⚡ Fun fact:
     - Didn't plan to enter tech at first.
-    - Did Miui Rom dev, but left cus did not feel rewarding mentally.
+    - Did Miui Rom dev, but left cus did not feel rewarding mentally (but still maintaining some tools in limited free time).
 
 <!---
 Klyoark/Klyoark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
