@@ -1,10 +1,10 @@
-- 👋 The name is abbreviated as PK, referred to as Kly, or Kli, or Klyoark, whatever handle you want to use. 
-- 👀 Interested in literally anything (aka undecided). 
-- 🌱 Began with C++, learning with C++, and using C++ (And some experience messing with Android).
-- 📫 Reach me via discord (@Klyoark9089), don't fully trust other socials with the same name/handle.
+- 👋 Real name is abbreviated PK, or PiKay, referred to as Kly, or Kli, or Klyoark, this or that. 
+- 👀 Interested in literally anything (aka undecided), all but competitive programming :P 
+- 🌱 Began with C++, learning with C++, and using C++ (And some experience messing with Android + Unreal Engine).
+- 📫 Reach me via discord or X (@Klyoark), don't fully trust other socials with the same name/handle.
 - ⚡ Fun fact:
     - Didn't plan to do tech at first.
-    - Did Xiaomi Rom modding, but left because of quite a number of toxic users (but still maintaining some tools in limited free time).
+    - Made a game that generated -2 USD.
 
 <!---
 Klyoark/Klyoark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
