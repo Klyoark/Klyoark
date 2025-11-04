@@ -1,4 +1,6 @@
-📫 Reach me via discord, don't fully trust other socials with the same name/handle.
+Discord @Klyoark
+
+bread 🍞
 
 
 <!---
