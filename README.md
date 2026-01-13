@@ -1,6 +1,9 @@
+NDPK
 Discord @Klyoark
 
+CQCN D25 PTIT 25-30
 bread 🍞
+
 
 
 <!---
